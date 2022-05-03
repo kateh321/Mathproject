@@ -96,7 +96,7 @@ All libraries except for split-folders are preinstalled in collab. Use the follo
 
 Final step is to click run all and the program should run start to finish.
 
-![run.jpg](https://i.postimg.cc/wMN1KQmn/run.jpg)](https://postimg.cc/H8pYX53t)
+[![run.jpg](https://i.postimg.cc/wMN1KQmn/run.jpg)](https://postimg.cc/H8pYX53t)
 
 Approximate run times for each program using GPU is:
 math_model_1.ipyjb -  33 min 33 seconds
