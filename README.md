@@ -29,7 +29,7 @@ First, an account is required to use google collab, if you do not have one you c
 
 Once an account is created go to https://colab.research.google.com/?utm_source=scs-index and create a new notebook.
 
-![alt text](https://www.dropbox.com/s/74oeqrnmo5f55pq/gdrive.jpg?dl=0)
+![gdrive.jpg](https://i.postimg.cc/tgdyHV1Y/gdrive.jpg)](https://postimg.cc/qt7WsqxT)
 
 ## Step 2.
 
