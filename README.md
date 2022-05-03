@@ -34,7 +34,7 @@ Once an account is created go to https://colab.research.google.com/?utm_source=s
 ## Step 2.
 
 
-!git clone https://github.com/kateh321/Mathproject
+![git clone https://github.com/kateh321/Mathproject]
 
 
 
