@@ -26,7 +26,7 @@ First, an account is required to use google collab, if you do not have one you c
 Once an account is created go to https://colab.research.google.com/?utm_source=scs-index and create a new notebook and use the following code below to clone this repository.
 
 
-$!git clone https://github.com/kateh321/Mathproject$
+!git clone https://github.com/kateh321/Mathproject
 
 
 
