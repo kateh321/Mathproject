@@ -8,16 +8,6 @@ Dataset can be found at:
 * !https://data.mendeley.com/datasets/snkd93bnjr/1
 
 It contains over 17000 images of different blood cells.
-## Requirements
-* Numpy
-* matplotlib.pyplot
-* seaborn
-* tensorflow
-* keras
-* sklearn
-* split-folders
-
-A text file above, can be execuated in the collab notebook using !pip install requirements.
 
 
 # Setting up 
@@ -54,9 +44,6 @@ Change directory to be located in the drive directory using the code below.
 ```
 
 
-```
-%cd 
-
 
 
 ## Step 3.
@@ -86,7 +73,7 @@ The libraries required for this project are listed below
 * sklearn
 * split-folders
 
-All libraries except for split-folders are preinstalled in collab. Use the following command to install split folders.
+All libraries except for split-folders are pre-installed in collab. Use the following command to install split folders.
 
 ```
 !pip install split-folders
@@ -105,7 +92,17 @@ VVG16_model.ipy -
 
 Please note the run times can vary as google collab uses different GPUs overtime and resources are not always guaranteed.
 
+# Models
 
+Three different CNN models were created to classify the 8 different blood cells using different parameters, regularization, layers etc. The VVG16 model used transfer learning to classify the blood cells. The results from the models can be seen below.
+
+[![table.jpg](https://i.postimg.cc/4yXp10MB/table.jpg)](https://postimg.cc/r0YdVfqr)
+
+# Conclusion
+
+Transfer learning is a useful tool for getting high accuracy in CNNs without starting from
+scratch. The VVG16 model performed the best out of the three models. A lot of time was
+spent training and tweaking model 1 and 2, but more time is required to improve them further. Feel free to tweak parameters or add more layers to see if improvement can be made.
 
 
 
