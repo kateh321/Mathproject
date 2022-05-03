@@ -86,11 +86,11 @@ Final step is to click run all and the program should run start to finish.
 [![run.jpg](https://i.postimg.cc/wMN1KQmn/run.jpg)](https://postimg.cc/H8pYX53t)
 
 Approximate run times for each program using GPU is:
-math_model_1.ipyjb -  33 min 33 seconds
-math_model_2.ipyjb - 
-VVG16_model.ipy -
+* math_model_1.ipyjb -  33 min 33 seconds
+* math_model_2.ipyjb - 31 min 20 seconds
+* VVG16_model.ipy -    
 
-Please note the run times can vary as google collab uses different GPUs overtime and resources are not always guaranteed.
+Please note the run times can vary as google collab uses different GPUs overtime and resources are not always guaranteed. It is also important to note this was created on Google collab pro+, on the free version of google collab these runtimes make take much longer. 
 
 # Models
 
