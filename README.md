@@ -29,7 +29,7 @@ First, an account is required to use google collab, if you do not have one you c
 
 Once an account is created go to https://colab.research.google.com/?utm_source=scs-index and create a new notebook.
 
-![alt text](https://www.tutorialspoint.com/google_colab/images/colab_search.jpg)
+![alt text](https://www.dropbox.com/s/74oeqrnmo5f55pq/gdrive.jpg?dl=0)
 
 ## Step 2.
 
@@ -38,5 +38,17 @@ Once an account is created go to https://colab.research.google.com/?utm_source=s
 !git clone https://github.com/kateh321/Mathproject
 
 ```
+
+
+## Step 3
+
+Mount your google drive to collab by using the code below.
+
+```
+from google.colab import drive
+drive.mount('/content/gdrive')
+```
+
+
 
 
