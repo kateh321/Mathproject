@@ -5,7 +5,7 @@ The aim of this project is to design convolutional neural networks to classify b
 
 ## Dataset
 Dataset can be found at:
-* !https://data.mendeley.com/datasets/snkd93bnjr/1
+* https://data.mendeley.com/datasets/snkd93bnjr/1
 
 It contains over 17000 images of different blood cells.
 
