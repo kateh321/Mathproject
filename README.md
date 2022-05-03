@@ -17,4 +17,17 @@ Dataset can be found at:
 * sklearn
 
 
+## Setting up 
+
+The programs above were created using Google collab, here it will explain how to set up a google collab account and run the programs. 
+
+First, an account is required to use google collab, if you do not have one you can sign up at https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp
+
+Once an account is created go to https://colab.research.google.com/?utm_source=scs-index and create a new notebook and use the following code below to clone this repository.
+
+''' \bin\bash
+!git clone https://github.com/kateh321/Mathproject
+'''
+
+
 
